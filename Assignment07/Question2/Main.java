@@ -1,4 +1,5 @@
-// Roll No: BCS2025475 | Assignment 7 | Question 2
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 7 | Question 2
 // Count steps in nested loops
 public class Main {
     public static void main(String[] args) {

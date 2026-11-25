@@ -1,7 +1,7 @@
 # Assignment 5: Arrays: Traversal and Counting
 
-**Name:** OM GYAN SINGH  
-**Roll Number:** BCS2025475  
+**Name:** SEVENDRA  
+**Roll Number:** BCS2025534  
 **Course:** BCS351 – Introduction to Programming Using Java Lab
 
 ## 1. Experiment Title

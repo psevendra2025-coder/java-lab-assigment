@@ -1,4 +1,5 @@
-// Roll No: BCS2025475 | Assignment 10 | Question 1
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 10 | Question 1
 // Print day name with switch
 public class Main {
     public static void main(String[] args) {

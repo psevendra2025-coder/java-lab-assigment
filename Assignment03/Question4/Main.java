@@ -1,4 +1,5 @@
-// Roll No: BCS2025475 | Assignment 3 | Question 4
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 3 | Question 4
 // Upside-down triangle of stars
 public class Main {
     public static void main(String[] args) {

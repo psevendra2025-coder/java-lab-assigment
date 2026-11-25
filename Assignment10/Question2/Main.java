@@ -1,4 +1,5 @@
-// Roll No: BCS2025475 | Assignment 10 | Question 2
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 10 | Question 2
 // Create and inspect an ArrayList
 import java.util.ArrayList;
 

@@ -1,4 +1,5 @@
-// Roll No: BCS2025475 | Assignment 2 | Question 1
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 2 | Question 1
 // Check even or odd
 public class Main {
     public static void main(String[] args) {

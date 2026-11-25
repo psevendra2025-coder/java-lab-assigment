@@ -1,11 +1,12 @@
-// Roll No: BCS2025475 | Assignment 1 | Question 2
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 1 | Question 2
 // Print variable values
 public class Main {
     public static void main(String[] args) {
         int roll = 101;
         double percentage = 84.5;
         char section = 'B';
-        String name = "Asha";
+        String name = "SEVENDRA";
 
         System.out.println("Roll: " + roll);
         System.out.println("Percentage: " + percentage);

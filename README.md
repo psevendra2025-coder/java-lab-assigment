@@ -1,7 +1,7 @@
 # Java Lab Assignments – BCS351
 
-**Student Name:** OM GYAN SINGH 
-**Student Roll Number:** BCS2025475  
+**Student Name:** SEVENDRA 
+**Student Roll Number:** BCS2025534  
 **Course:** Introduction to Programming Using Java Lab  
 **Institution:** Invertis University, Bareilly  
 **Editor specified for the lab:** Visual Studio Code (VS Code)

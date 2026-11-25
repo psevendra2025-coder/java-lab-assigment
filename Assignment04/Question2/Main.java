@@ -1,4 +1,5 @@
-// Roll No: BCS2025475 | Assignment 4 | Question 2
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 4 | Question 2
 // Calculate permutations nPr
 public class Main {
     static int fact(int n) {

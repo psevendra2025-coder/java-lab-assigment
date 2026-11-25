@@ -1,4 +1,5 @@
-// Roll No: BCS2025475 | Assignment 9 | Question 2
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 9 | Question 2
 // Calculate each column sum
 public class Main {
     public static void main(String[] args) {

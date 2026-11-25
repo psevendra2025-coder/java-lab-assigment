@@ -1,4 +1,5 @@
-// Roll No: BCS2025475 | Assignment 6 | Question 2
+// Name: SEVENDRA
+// Roll No: BCS2025534 | Assignment 6 | Question 2
 // Find smallest value and index
 public class Main {
     public static void main(String[] args) {
